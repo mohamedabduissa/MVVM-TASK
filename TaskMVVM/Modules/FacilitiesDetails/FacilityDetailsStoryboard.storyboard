@@ -16,7 +16,7 @@
             <objects>
                 <viewController storyboardIdentifier="FacilityDetailsVC" id="v1z-F3-ot6" customClass="FacilityDetailsVC" customModule="TaskMVVM" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="wn8-wF-9xc">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LQl-FN-Osp">

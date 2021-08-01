@@ -31,14 +31,7 @@
                             <constraint firstItem="ckT-Oz-gwY" firstAttribute="trailing" secondItem="4SM-kY-TyU" secondAttribute="trailing" constant="15" id="bj8-Px-JEi"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Facilities" id="iWg-He-ped">
-                        <barButtonItem key="leftBarButtonItem" image="back" id="iQS-W5-t7W">
-                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            <connections>
-                                <action selector="backBtn:" destination="v1z-F3-ot6" id="8zJ-f4-y4x"/>
-                            </connections>
-                        </barButtonItem>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title="Facilities" id="iWg-He-ped"/>
                     <connections>
                         <outlet property="facilitiesTbl" destination="4SM-kY-TyU" id="McI-pH-ZT8"/>
                     </connections>
@@ -71,7 +64,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="back" width="20.5" height="20.5"/>
         <namedColor name="mainColor">
             <color red="0.035294117647058823" green="0.35686274509803922" blue="0.29019607843137257" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
